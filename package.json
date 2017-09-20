@@ -1,0 +1,14 @@
+{
+  "name": "ieee-fest-server",
+  "version": "1.0.0",
+  "description": "server for events at ieee fest 2017",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
